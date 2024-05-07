@@ -16,9 +16,8 @@ The dataset used in this project is sourced from Kaggle and contains 41 unique d
 
 ## Getting Started
 To get started with this project, follow these steps:
-1. Clone this repository: `git clone https://github.com/your_username/disease-prediction.git`
-2. Download the dataset from Kaggle - https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-
-dataset?select=dataset.csv
+1. Clone this repository: `git clone https://github.com/Pranavv361/Disease-Prediction-Using-R/`
+2. Download the dataset from Kaggle - https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset?select=dataset.csv
 3. Run the .R files on R.
 
 ## Contributors
